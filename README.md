@@ -13,6 +13,7 @@
 <a href="https://www.youtube.com/channel/UCR9txckubHGilBvNGvud_dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nodeista" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adithyakrishna_V?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnadevpmele1" height="30" width="40" /></a>
 <a href="https://leetcode.com/AdithyakrishnaV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnadevpmelevila" height="30" width="40" /></a>
+<script src="https://tryhackme.com/badge/896159"></script>
 <!---
 AdithyakrishnaV/AdithyakrishnaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
