@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/21554009/adithyakrishna-v" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/229430154-e080940e-a681-42d4-8b12-d19945f0f034.png" height="30" width="40" /></a>
 <a href="https://medium.com/@adithyakrishnav001" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/205459968-2a2aebda-73a6-478e-816a-1894a558fdac.jpeg" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/931420" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/227407551-045bb66e-807a-4c34-b904-e2cdd1df8f42.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
-<a href="https://www.blogger.com/profile/16427972840337712015"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fstart-blog-on-blogger-1616408&psig=AOvVaw043R7P-V0gfudOrFCRasp0&ust=1683993293012000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiCsIGS8P4CFQAAAAAdAAAAABAE"</a>
+<a href="https://www.blogger.com/profile/16427972840337712015"><img  align="center" src="https://user-images.githubusercontent.com/84318379/675475e7-5a11-4d39-a0b1-d069b15e4204.png"</a>
 
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=adithyakrishnav001&theme=react" >
 
