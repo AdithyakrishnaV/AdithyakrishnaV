@@ -20,6 +20,7 @@
 
 
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=adithyakrishnav001&theme=react" >
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=adithyakrishnav&theme=react" >
 
 <!---
 AdithyakrishnaV/AdithyakrishnaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
