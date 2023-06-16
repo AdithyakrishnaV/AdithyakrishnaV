@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyakrishna V</h1>
-<h3 align="center"> Cyber Security Enthusiast, CTFer & Developer </h3>
+<h3 align="center"> Bug Boundy Hunter, CTFer & Developer </h3>
 
 - 😊 Ping me on [Linkedin](https://www.linkedin.com/in/adithyakrishna-v-9675a2213/)
 
