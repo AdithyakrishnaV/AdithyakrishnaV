@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **CyberSecurity | Python| DSA| Javascript | C | Cpp**
 
-- 📫 How to reach me *adithyakrishnav001@gmail.com*
+
 
 - <h3 align="left">Connect with me:</h3>
 
