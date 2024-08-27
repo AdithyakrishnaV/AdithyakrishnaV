@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/Adithyakrishna_V?hr_r=1" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428337-7818fab3-8eab-42e1-b6c1-55c7831584b3.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://leetcode.com/AdithyakrishnaV/" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428359-d0335873-8605-4081-8baa-918dc7a1657b.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21554009/adithyakrishna-v" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/229430154-e080940e-a681-42d4-8b12-d19945f0f034.png" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/adi01" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/205346902-01601d9e-c1b6-4267-9b26-b307c998b1cf.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/ZodiacHacker" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/205346902-01601d9e-c1b6-4267-9b26-b307c998b1cf.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/931420" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/227407551-045bb66e-807a-4c34-b904-e2cdd1df8f42.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 
 - <h4 align="left">Blog:</h4>
