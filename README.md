@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithyakrishna V</h1>
 <h3 align="center"> Bug Boundy Hunter, CTFer & Developer </h3>
-<a href="https://www.buymeacoffee.com/adithyakrishna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.paypal.com/ncp/payment/7FFKGJYENL562" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - 😊 Ping me on [Linkedin](https://www.linkedin.com/in/adithyakrishna-v-9675a2213/)
 
