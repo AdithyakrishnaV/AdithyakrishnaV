@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/channel/UCJxbeVUmDJRlHmSU-ceSmNw" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428386-957a9320-9544-41b3-96fc-e1ea3f17c8f0.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 
 - <h4 align="left">Blog:</h4>
-<a href="https://medium.com/@adithyakrishnav001" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/205459968-2a2aebda-73a6-478e-816a-1894a558fdac.jpeg" alt="AdithyakrishnaV" height="30" width="40" /></a>
+<a href="https://medium.com/@zodiacHacker" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/205459968-2a2aebda-73a6-478e-816a-1894a558fdac.jpeg" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://adithyakrishnav.blogspot.com/"><img src="https://www.blogger.com/img/logo_blogger_40px_2x.png" alt="AdithyakrishnaV" height="30" width="40" align="center" /> </a>
 
 - <h4 align="left">CTF:</h4>
