@@ -15,7 +15,7 @@
 <a href="https://leetcode.com/AdithyakrishnaV/" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428359-d0335873-8605-4081-8baa-918dc7a1657b.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21554009/adithyakrishna-v" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/229430154-e080940e-a681-42d4-8b12-d19945f0f034.png" height="30" width="40" /></a>
 
-- <h3 align="left">Youtube:</h4>
+<h3 align="left">Youtube:</h4>
 -  <h4 align="left">Zodiac:</h4>
 <a href="https://www.youtube.com/channel/UCR9txckubHGilBvNGvud_dg" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428386-957a9320-9544-41b3-96fc-e1ea3f17c8f0.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 
