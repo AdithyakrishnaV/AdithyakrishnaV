@@ -11,7 +11,6 @@
 - <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/adithyakrishna-v-9675a2213/" target="_blank" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428312-281affe0-b3d4-4615-9d9c-c3444715c5f1.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
-<a href="https://x.com/_zodiacHacker" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digidop.com%2Fblog%2Ftwitter-x-new-identity-logo-challenges-elon-musk&psig=AOvVaw2qTY1weyTY1B_8S5LRXWLb&ust=1763004837350000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiCsfvW65ADFQAAAAAdAAAAABAE" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adithyakrishna_V?hr_r=1" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428337-7818fab3-8eab-42e1-b6c1-55c7831584b3.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://leetcode.com/AdithyakrishnaV/" ><img align="center" src="https://user-images.githubusercontent.com/84318379/205428359-d0335873-8605-4081-8baa-918dc7a1657b.png" alt="AdithyakrishnaV" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21554009/adithyakrishna-v" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/84318379/229430154-e080940e-a681-42d4-8b12-d19945f0f034.png" height="30" width="40" /></a>
