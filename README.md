@@ -31,10 +31,11 @@
 
 
 - <h4 align="left">Poems:</h4>
-<a href="https://allpoetry.com/Adithyakrishna_V" target="_blank"><img align="center" src="https://stock.adobe.com/images/book/49924324" alt="AdithyakrishnaV" height="30" width="40" /></a>
+<a href="https://allpoetry.com/Adithyakrishna_V" target="_blank"></a>
 
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=adithyakrishnav001&theme=react" >
+  
 <!---
 AdithyakrishnaV/AdithyakrishnaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=adithyakrishnav001&theme=react" >
 --->
