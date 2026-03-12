@@ -4,7 +4,7 @@
 
 - 😊 Ping me on [Linkedin](https://www.linkedin.com/in/adithyakrishna-v-9675a2213/)
 
-- 💬 Ask me about **CyberSecurity | Low-level Programming | Reverse Engineering | DSA | Bug Bounty | C | Cpp**
+- 💬 Ask me about **CyberSecurity | Low-level Programming | Reverse Engineering | DSA | Bug Bounty | C | Cpp | Rust | Assembly**
 
 
 
